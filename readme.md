@@ -1,15 +1,15 @@
-h1. Un-Official Xonotic Server Configurations
+# Un-Official Xonotic Server Configurations
 
 Readme text here
 
-h2. Usage
+## Usage
 
 These configs are meant to be used together with xstools. Xstools provides a framework to managing servers.
 
-h2. Credits
+### Credits
 
-Atheros
-It'sMe
-Naryl
-Samual
-Unknown[NF]
+- Atheros
+- It'sMe
+- Naryl
+- Samual
+- Unknown[NF]
