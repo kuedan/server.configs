@@ -1,10 +1,5 @@
-# Un-Official Xonotic Server Configurations
-
-Readme text here
-
-## Usage
-
-These configs are meant to be used together with xstools. Xstools provides a framework to managing servers.
+These are the configs used by xstools
+https://github.com/itsme-/xstools
 
 ### Credits
 
