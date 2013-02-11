@@ -1,6 +1,6 @@
 # Xonotic Server Configs
 
- --------
+--------
 
 **Credits**
  - Atheros
@@ -17,7 +17,7 @@ Drop the .cfg files into your data folder.
 
 ```
 # start your server
-./xonotic-linux64-dedicated -sessionid votable +serverconfig server_pickup.cfg
+./xonotic-linux64-dedicated -sessionid votable +serverconfig server_votable.cfg
 ```
 
 ### branch: xstools
