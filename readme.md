@@ -1,13 +1,13 @@
 # Xonotic Server Configs
 
- *Credits*
  --------
+ **Credits**
  - Atheros
  - It'sMe
  - Naryl
  - Samual
  - Unknown[NF]
-
+ --------
 
 ### Usage
 
